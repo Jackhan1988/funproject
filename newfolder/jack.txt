@@ -1,1 +1,33 @@
- this is fun
+ On branch master
+Changes not staged for commit:
+	modified:   jack.txt
+
+Untracked files:
+	../.DS_Store
+	../.localized
+	../2019SummerResearch/
+	../DJI CPSFlyMission/
+	../Dashlane Export.dash
+	../KARIM_ILIYA_F8B0880.jpg
+	../KeerFashionShowDJI_Video/
+	../KeerWebSource/
+	../Logo.jpg
+	../MPC Control/
+	../MacSoftware/
+	../QbotQdrone/
+	../Research Report/
+	../ScreenShots/
+	../TR-206.jpg
+	../UTSA Form/
+	../UTSA/
+	../dsp project-fall 2018/
+	README.md
+	../p/
+	../~$FLY DATA AVS.xlsx
+	../~$MT Project2.docx
+	../~$SSY222.docx
+	../~$Zhifeng_Max_PSO_Poster_UTSA 2017.pptx
+	../~$irituality Syllabus 2015-2.doc
+	"../\344\270\252\344\272\272\344\270\223\345\210\251\347\224\263\350\257\267/"
+
+no changes added to commit
